@@ -31,7 +31,7 @@ The project includes **Grad-CAM** to visualize the important regions of an image
 The trained model is deployed using **Streamlit**, allowing users to upload a traffic sign image and receive a prediction with confidence.
 
 **Live Demo:**  
-https://deepvision-traffic-sign-recognition.streamlit.app/
+https://deepvision-traffic-sign-recognition-jvq3x8nod7zdbouyad6ynr.streamlit.app/
 
 ## Technologies
 
